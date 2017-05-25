@@ -1,0 +1,30 @@
+*{
+	margin: 0 auto;
+}
+body{
+	display: inline /*!important*/;
+	background-image: url("../images/background.jpg")
+}
+.crop{
+	text-align: center;
+}
+h1{
+	font-family: 'Kumar One', cursive;
+	font-size: 62px;
+	color: white;
+	text-align: center;
+	margin: 25px !important;
+}
+h2, h3, p{
+	color: white;
+}
+button{
+	margin: 10px 0;
+	border-radius: 5px;
+	color: lightgrey !important;
+	background: red  !important;
+
+}
+img{
+	text-align: center;
+}
